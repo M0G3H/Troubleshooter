@@ -26,4 +26,4 @@ A comprehensive diagnostic tool that performs automated health checks on all sys
 ## Usage
 
 ```bash
-sudo ./troubleshoot.sh
+sudo ./troubleshooter.sh
