@@ -2,6 +2,8 @@
 
 A comprehensive diagnostic tool that performs automated health checks on all system components.
 
+> **⚠️ Note:** This is a **template** designed to be modified for your specific project needs. Fork it, customize the checks, and adapt it to your own infrastructure!
+
 ## Features
 
 - 🔒 **Secure Boot Validation** - Checks and warns if Secure Boot is enabled
